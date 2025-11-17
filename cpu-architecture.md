@@ -56,3 +56,23 @@ The spices or tools kept right beside the chef for easy reach.
 ### Registers
 Small, super-fast storage locations inside the CPU used during processing.
 The chef’s small notepad for quick notes, like “next order number 12.”
+
+## Von Neumann Architecture
+
+This is the design most computers use today. It means instructions and data are stored together in main memory.
+
+The CPU uses several registers to manage this process:
+
+### MAR (Memory Address Register)
+The address of where to find the next instruction/data in memory.
+The chef’s note saying “get ingredients from shelf #12.”
+
+### MDR (Memory Data Register)
+The actual data fetched from that address.
+The ingredients the chef brings from the shelf.
+
+### Program Counter (PC)	
+Keeps track of the next instruction’s location.	The chef’s order list “next, order #13.”
+
+### Accumulator (ACC)	
+Temporarily holds results of calculations. The mixing bowl where the chef keeps results before serving.
