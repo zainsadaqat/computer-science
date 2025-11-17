@@ -76,3 +76,11 @@ Keeps track of the next instruction’s location.	The chef’s order list “nex
 
 ### Accumulator (ACC)	
 Temporarily holds results of calculations. The mixing bowl where the chef keeps results before serving.
+
+## Real World Connection
+
+When you open Google Chrome, the CPU fetches instructions from storage to start the browser, decodes them, then executes them to load the interface.
+
+When you play a video game, the CPU constantly fetches positions, decodes them into actions, and executes them to update graphics and physics in real time.
+
+So next time your code runs, remember your CPU is the “chef,” your memory is the “pantry,” and the fetch–execute cycle is the kitchen routine happening millions of times a second.
