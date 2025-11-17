@@ -15,6 +15,19 @@ Games like Fortnite or Pubg run smoother on processors with higher clock speed b
 ### Example-2
 Video editing software exports faster because the CPU completes its calculations more rapidly.
 
+### Note
+
+There is one universal number of ticks per second. That is not true. A CPU tick is tied to its clock frequency and every processor family runs at different frequencies that also fluctuate during use.
+
+modern CPUs do not run at a fixed frequency. Technologies like turbo boost and power saving constantly change the clock rate. So asking for a single number hides important details about how real processors behave.
+
+Instead of thinking about a fixed ticks per second, think in terms of:
+- The base clock frequency which is usually between one billion and four billion cycles per second.
+- The dynamic range which can drop much lower under light load and go much higher under heavy load.
+- The idea that one cycle does not always equal one useful instruction.
+
+If a CPU is running at 3 gigahertz, it means roughly three billion cycles per second. But this does not mean three billion instructions. Some instructions take multiple cycles. Some operations happen in parallel with pipelines and superscalar execution. So the tick count is not a direct measure of work.
+
 ### Question
 If a CPU has a higher clock speed, what does that usually mean for how fast it can work?
 
