@@ -2,8 +2,7 @@
 
 ## 1.2.1 Clock speed
 
-Clock speed is how fast the CPU ticks. Every tick allows the CPU to do the next tiny step of work.
-Think of it like a drummer setting the pace in a band. Faster drum beat means the whole band moves faster. A faster clock means more instructions per second.
+Clock speed is how fast the CPU ticks. Every tick allows the CPU to do the next tiny step of work. A faster clock means more instructions per second.
 
 ### Analogy
 
