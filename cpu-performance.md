@@ -33,6 +33,9 @@ If a CPU has a higher clock speed, what does that usually mean for how fast it c
 ## 1.2.2 Cache size
 Cache is tiny memory inside the CPU that holds the most important information the CPU needs right now. It is much faster than RAM.
 
+### Note
+You seem to assume cache memory has a single standard size. That is not true. Cache size depends on the device, CPU model, and cache level.
+
 ### Analogy
 A school student doing homework. They work faster when the textbook, notes, and calculator are on the desk rather than having to go to another room each time. Cache is the items on the desk.
 
