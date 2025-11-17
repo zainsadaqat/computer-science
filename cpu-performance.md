@@ -1,10 +1,12 @@
 # 1.2 CPU Performance
 
 ## 1.2.1 Clock speed
+
 Clock speed is how fast the CPU ticks. Every tick allows the CPU to do the next tiny step of work.
 Think of it like a drummer setting the pace in a band. Faster drum beat means the whole band moves faster. A faster clock means more instructions per second.
 
 ### Analogy
+
 Imagine a cashier scanning items. Every beep is one item scanned. A cashier who beeps faster finishes the queue faster.
 
 ### Example-1
@@ -30,3 +32,19 @@ Browsers run smoother when processing many tabs because the CPU keeps repeating 
 
 ### Question
 Why does having more cache make the CPU faster?
+
+## 1.2.3 Number of cores
+
+A core is a thinking brain inside the CPU. More cores means the computer can do more than one job at the same time.
+
+### Analogy
+Imagine a kitchen with one chef versus a kitchen with four chefs. One chef can cook only one meal at a time. Four chefs can cook four meals at once.
+
+### Example-1
+Modern games use multiple cores so one core handles graphics, one handles physics, one handles world updates.
+
+### Example-2
+While video calling, one core handles the camera, one handles the microphone, one handles background apps.
+
+### Question
+What is one benefit of having more than one core?
