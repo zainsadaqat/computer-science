@@ -19,6 +19,19 @@ The fetch-execute cycle
 - Program Counter
 - Accumulator
 
+### 1.2 CPU performance
+
+How common characteristics of CPUs affect their performance:
+
+#### 1.2.1 Clock speed
+#### 1.2.2 Cache size
+#### 1.2.3 Number of core
+
+### 1.3 Embedded systems
+
+#### 1.3.1 The purpose and characteristics of embedded systems
+#### 1.3.2 Examples of embedded system
+
 ## 2. Memory and storage
 ## 3. Computer networks, connections and protocols
 ## 4. Network security
