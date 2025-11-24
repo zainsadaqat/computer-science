@@ -75,3 +75,49 @@ Saving a Word document to a hard drive.
 ### Example2
 
 Storing photos on your phone.
+
+## Types of Secondary Storage
+
+### A. Optical storage
+
+Uses lasers to read and write data.
+Think CDs and DVDs.
+
+#### Analogy
+
+A torch shining on shiny surfaces to read patterns.
+
+#### Examples
+
+- Movie DVDs
+
+- Music CDs
+
+### B. Magnetic storage
+
+Uses magnets on spinning disks to store huge amounts of data.
+
+#### Analogy
+
+Like rearranging magnet patterns on a fridge to make messages.
+
+#### Examples
+
+- Hard drives in desktop PCs
+
+- Backup drives in offices
+
+### C. Solid state storage
+
+Uses electronic circuits, no moving parts.
+Fast and durable.
+
+#### Analogy
+
+A quiet digital safe that opens instantly.
+
+#### Examples
+
+- USB flash drives
+
+- SSDs in modern laptops
