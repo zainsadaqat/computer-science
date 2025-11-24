@@ -30,7 +30,7 @@ What is the advantage of keeping data in short-term memory instead of going back
 
 Why does one need to forget everything when powered off, while the other must never forget?
 
-## Virtual Machine
+## Virtual Memory
 
 If RAM becomes full, the computer uses part of the storage drive as pretend RAM.
 This is slower but stops the system from crashing.
