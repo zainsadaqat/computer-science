@@ -15,7 +15,7 @@ When gaming, the map, characters, and textures load into RAM for smooth performa
 
 What is the advantage of keeping data in short-term memory instead of going back to storage each time?
 
-## RAM
+## RAM (Random Accesss Memory)
 
 - RAM is temporary memory.
 - It forgets everything when you turn the computer off.
