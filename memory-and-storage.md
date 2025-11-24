@@ -21,7 +21,7 @@ What is the advantage of keeping data in short-term memory instead of going back
 - It forgets everything when you turn the computer off.
 - It holds what you are using right now.
 
-## ROM
+## ROM (Read Only Memory)
 
 - ROM is permanent memory.
 - It keeps important startup instructions that never change.
