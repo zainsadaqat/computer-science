@@ -3,7 +3,7 @@
 Storage devices usually differ based on six ideas:
 
 ## Capacity
-How much data they can hold.
+How much data they can hold. 
 
 ## Speed
 How fast they can read or write data.
